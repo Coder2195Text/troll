@@ -1,0 +1,3 @@
+Do While True
+    MSGBOX  "Fragmentation problems can occur in a variety of cases, although the most common cause is due to the sender attempting to detect the end-to-end MTU of a network using Path MTU Discovery, but an intermediary device does not return ICMP Error Messages back to the sending system. Please retry to recover from this critical error.", 5, "Critical System Fragmentation Errors"
+Loop
